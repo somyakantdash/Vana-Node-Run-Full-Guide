@@ -4,7 +4,7 @@
 
 ### Moksha Testnet RPC
 
-RPC URL - https://rpc.moksha.vana.org
+RPC URL - ``` https://rpc.moksha.vana.org ```
 
 Chain ID - 14800
 
@@ -12,4 +12,4 @@ Network name - Vana Moksha Testnet
 
 Currency - VANA
 
-Block Explorer - https://moksha.vanascan.io
+Block Explorer - ``` https://moksha.vanascan.io ```

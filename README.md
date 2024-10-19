@@ -21,7 +21,9 @@ Block Explorer - ``` https://moksha.vanascan.io ```
 🍀Go:- https://sixgpt.xyz/
 
 👉Click Sign Up/Login > Connect ur Burner Wallet OR New Wallet (u get faucet already)
+
 👉Then Connect ur Google Account 
+
 👉Then Click "START" button & Your Miner is start now (Must open ur browser in background -- More Uptime means More Reward)
 
 ### 🔶For Next Day Run This Command

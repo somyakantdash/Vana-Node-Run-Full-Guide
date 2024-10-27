@@ -69,14 +69,22 @@ su - ${USER}
 groups
 ```
 
-2️⃣ Check Docker Version
+2️⃣ Check Docker & WSL Version
 ```
 docker --version
+```
+```
+wsl -v
 ```
 
 3️⃣ Clone the repository
 ```
-git clone git@github.com:sixgpt/miner.git
+git clone https://github.com/sixgpt/miner
+```
+
+Optional - ``` git clone git@github.com:sixgpt/miner.git ```
+
+```
 cd miner
 ```
 

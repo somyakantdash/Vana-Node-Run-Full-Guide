@@ -2,7 +2,7 @@
 
 ## Claim Faucet (Moksha) [Use Only Burner Wallet or New Wallet]
 
-🍀Go:- https://faucet.vana.org/satori
+🍀Go:- https://faucet.vana.org/moksha
 
 ### Moksha Testnet RPC
 
@@ -39,7 +39,7 @@ Connect Wallet and Click on Start (Run Every Day when u Start ur PC)
 
 1️⃣ Take Faucet [Use Only Burner Wallet or New Wallet]
 
-➡Claim Faucet - https://faucet.vana.org/satori
+➡Claim Faucet - https://faucet.vana.org/moksha
 
 🍀For VPS (Additional Only for VPS Users to Download Docker)
 ```
@@ -83,13 +83,18 @@ cd miner
 4️⃣ Set the following environment variables
 ```
 export VANA_PRIVATE_KEY=your_private_key
-export VANA_NETWORK=satori
+export VANA_NETWORK=moksha
 ```
 
 5️⃣ Run the miner
 ```
 docker compose up
 ```
+
+## Notes
+- You must have logged into sixgpt.xyz with your wallet before running the miner
+- Make sure the wallet associated with your vana private key has enough $VANA balance on the desired network (at least 0.1)
+
 
 ## 🔶For Next Day Run This Command
 
@@ -102,3 +107,7 @@ cd miner
 ```
 docker compose up
 ```
+
+## Notes
+- You must have logged into sixgpt.xyz with your wallet before running the miner
+- Make sure the wallet associated with your vana private key has enough $VANA balance on the desired network (at least 0.1)
